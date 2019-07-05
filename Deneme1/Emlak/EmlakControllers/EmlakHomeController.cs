@@ -6,12 +6,12 @@ using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace Deneme1.CTV.Controllers
+namespace Deneme1.Emlak.EmlakControllers
 {
-    public class HomeController : Controller
+    public class EmlakHomeController : Controller
     {
         // GET: /<controller>/
-        public IActionResult Index()
+        public IActionResult IndexEmlak()
         {
             return View();
         }
