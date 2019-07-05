@@ -11,17 +11,4 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
   </ItemGroup>
 
-
-  <ItemGroup>
-    <Folder Include="CTV\CIslem\" />
-    <Folder Include="CTV\CType\" />
-    <Folder Include="CTV\Views\" />
-    <Folder Include="Emlak\CIslem\" />
-    <Folder Include="Emlak\CType\" />
-    <Folder Include="Emlak\Views\" />
-    <Folder Include="Tebligat\CIslem\" />
-    <Folder Include="Tebligat\CType\" />
-    <Folder Include="Tebligat\Views\" />
-  </ItemGroup>
-
 </Project>
